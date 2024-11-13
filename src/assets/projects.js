@@ -9,7 +9,7 @@ export const projects = [
         title: "Tutela",
         stack: ["React", "Express", "Stripe"],
         image: tutela,
-        link: "https://github.com/ConnorMac0/tutela"
+        link: "https://tutela503.com"
     },
     {
         title: "DeepFake Voice Detection",
